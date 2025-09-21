@@ -43,7 +43,7 @@ Streamline offers a suite of functionalities aimed at enhancing the subscription
 
 <p align="center">
   <img src="Screenshots/welcomepage.png" alt="Login" width="300"/>
-  <img src="Screenshots/homepage.png" alt="Homepage - Dark" width="300"/>
+  <img src="Screenshots/home.png" alt="Homepage - Dark" width="300"/>
   <img src="Screenshots/main.png" alt="Forum Answer - Light" width="300"/>
   <img src="Screenshots/favorites.png" alt="Post Page - Light" width="300"/>
   <img src="Screenshots/cart.png" alt="Profile - Light" width="300"/>
