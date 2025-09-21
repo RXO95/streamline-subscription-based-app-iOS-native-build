@@ -1,0 +1,39 @@
+Xcode
+
+.DS_Store
+Build Generated
+
+build/
+*.xcarchive
+.xcworkspace
+!.xcworkspace/
+Swift Package Manager
+
+.build/
+CocoaPods
+
+Pods/
+Podfile.lock
+Carthage
+
+Carthage/
+User Specific
+
+*.xcuserstate
+*.xcuserdatad
+Derived Data
+
+DerivedData/
+Plist files (CRITICAL FOR FIREBASE KEYS)
+Exclude GoogleService-Info.plist to prevent API key leaks
+
+GoogleService-Info.plist
+Git LFS (if you were using it for large files)
+
+.git-lfs/
+Additional files
+
+.swiftpm/
+SwiftLint (if used)
+
+.swiftlint.yml
